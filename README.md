@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently studying at Posts and Telecommunications Institute of Technology.
 ### Programming Languages 🌐
-#### Know/Using
+#### - Know/Using
 
 <!--
 **maiducbinh/maiducbinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
