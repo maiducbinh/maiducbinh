@@ -2,7 +2,7 @@
 🌱 I’m currently studying at Posts and Telecommunications Institute of Technology.
 ### Programming Languages 🌐
 #### * Know/Using
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://www.open-std.org/jtc1/sc22/wg14/)
+![](https://myoctocat.com/assets/images/base-octocat.svg](https://www.open-std.org/jtc1/sc22/wg14/)
 
 <!--
 **maiducbinh/maiducbinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
