@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mai Duc Binh</h1>
-<h3 align="center">Work hard in silence, let success make the noise.</h3>
+<h3 align="center">A newbie in programming</h3>
 
 - 🌱 I’m currently studying at **Posts and Telecommunications Institute of Technology**
 
