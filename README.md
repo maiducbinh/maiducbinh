@@ -1,4 +1,4 @@
-![Header align="center" ](https://user-images.githubusercontent.com/105925707/190939816-8aeb7fb1-1bb9-4b19-92f7-d58ff325bd3a.png)
+![Header](https://user-images.githubusercontent.com/105925707/190940178-b27a24ca-1f0d-4431-9a7d-1469a487ef67.png)
 
 <h1 align="center">Hi 👋, I'm Mai Duc Binh</h1>
 <h3 align="center">A newbie in programming</h3>
