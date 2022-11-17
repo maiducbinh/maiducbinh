@@ -14,6 +14,8 @@
 
 - 📫 How to reach me: **binhmai2205@gmail.com**
 
+- 🖥️ ICPC Profile: https://icpc.global/ICPCID/O223D3AP3WP6
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mducbinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maiducbinhbg" height="30" width="40" /></a>
