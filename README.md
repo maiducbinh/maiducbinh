@@ -14,7 +14,9 @@
 
 - 📫 How to reach me: **binhmai2205@gmail.com**
 
-- 🖥️ ICPC Profile: https://icpc.global/ICPCID/O223D3AP3WP6
+- 🖥️ My ICPC Profile: https://icpc.global/ICPCID/O223D3AP3WP6
+
+- 💻 My CF Profile: https://codeforces.com/profile/maiducbinh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
