@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/105925707/190940178-b27a24ca-1f0d-4431-9a7d-1469a487ef67.png)
 
 <h1 align="center">Hi 👋, I'm Mai Duc Binh</h1>
-<h3 align="center">A newbie in programming</h3>
+<h3 align="center">Aiming for my first paper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiducbinh&label=Profile%20views&color=0e75b6&style=flat" alt="maiducbinh" /> </p>
 
